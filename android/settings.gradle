@@ -1,0 +1,3 @@
+rootProject.name = 'nativewindows'
+
+include ':app'
